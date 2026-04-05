@@ -1,7 +1,7 @@
 # Dictionary API Integration in Unity
 
 ## Unity Version
-Unity 2020.3 or higher
+Unity 2022.3.62f3
 
 ---
 
